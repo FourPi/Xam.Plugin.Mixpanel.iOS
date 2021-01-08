@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xam.Plugin.Mixpanel.iOS", "Xam.Plugin.Mixpanel.iOS.csproj", "{6844CE3A-8CF5-455A-9FAD-FE0630712328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xam.Plugin.Mixpanel.tvOS", "Xam.Plugin.Mixpanel.tvOS\Xam.Plugin.Mixpanel.tvOS.csproj", "{D928552E-1E0D-4AF9-982C-60D7736CF3D8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +13,5 @@ Global
 		{6844CE3A-8CF5-455A-9FAD-FE0630712328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6844CE3A-8CF5-455A-9FAD-FE0630712328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6844CE3A-8CF5-455A-9FAD-FE0630712328}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D928552E-1E0D-4AF9-982C-60D7736CF3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D928552E-1E0D-4AF9-982C-60D7736CF3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D928552E-1E0D-4AF9-982C-60D7736CF3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D928552E-1E0D-4AF9-982C-60D7736CF3D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

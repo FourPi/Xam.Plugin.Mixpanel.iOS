@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Xam.Plugin.Mixpanel.iOS</id>
-        <version>3.6.2</version>
+        <version>3.6.3</version>
         <description>Xamarin.iOS bindings for Mixpanel (Objective-C).</description>
         <tags>mixpanel, xamarin, xamarin.ios, ios</tags>
         <authors>beeradmoore</authors>

@@ -2,7 +2,7 @@
 
 namespace Xam.Plugin.Mixpanel.iOS
 {
-    [StructLayout(LayoutKind.Sequential)]
+    [StructLayout (LayoutKind.Sequential)]
     public struct mp_tweak_entry
     {
         public unsafe string name;
