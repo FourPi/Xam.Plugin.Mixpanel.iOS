@@ -8,3 +8,5 @@ Binding/NewBinding_*
 *.nupkg
 *.snupkg
 Binding/Carthage
+Binding/Frameworks
+NewBinding_*.cs
